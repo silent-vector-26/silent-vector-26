@@ -82,9 +82,9 @@ My established engineering background includes:
 
 ## 🎓 Microsoft Credentials
 
-- **Microsoft Certified: Azure AI Apps and Agents Developer Associate**
-- **Microsoft Certified: Azure AI Fundamentals**
-- **Microsoft Certified: Azure Fundamentals**
+- [**Microsoft Certified: Azure AI Apps and Agents Developer Associate**](https://learn.microsoft.com/api/credentials/share/en-us/AlexKhorozov-8350/92AE56E1AB4E4771?sharingId=45DF861306571BF1)
+- [**Microsoft Certified: Azure AI Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/AlexKhorozov-8350/51592D02874F32A4?sharingId=45DF861306571BF1)
+- [**Microsoft Certified: Azure Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/AlexKhorozov-8350/AF60FA54A4C9BBC5?sharingId=45DF861306571BF1)
 
 ---
 
